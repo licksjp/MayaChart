@@ -9,7 +9,7 @@
 
 # ・Sun_crest.csv:太陽の紋章ファイル。
 # ・Maya_Chart1.csv:マヤ暦 早見表1。
-# ・README.md:取扱説明書
+# ・README.md: 取扱説明書
 
 # ●マヤ暦 早見表1
 
