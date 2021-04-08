@@ -2,8 +2,8 @@
 # このデーターはマヤ暦早見表の
 # データーです。
 # これを用いてマヤ暦占いを求めます。
-# Sun_crest:太陽の紋章
-# maya_chart1:早見表1
+# Sun_crest.csv:太陽の紋章
+# maya_chart1.csv:早見表1
 
 
 
