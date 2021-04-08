@@ -5,9 +5,10 @@
 
 # これを用いてマヤ暦占いをします。
 
-# Sun_crest.csv:太陽の紋章ファイル
+# ●ファイルについて
+# Sun_crest.csv:太陽の紋章ファイル。
 　　　
-# Maya_Chart1.csv:マヤ暦 早見表1
+# Maya_Chart1.csv:マヤ暦 早見表1。
 
 # README.md:取扱説明書
 
